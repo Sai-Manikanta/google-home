@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .icon-bg-position {
+    background-position: 3% 50%;
+  }
+}

@@ -1,8 +1,8 @@
+import SearchPage from "./pages/SearchPage"
+
 function App() {
     return (
-        <div>
-            Root Component
-        </div>
+        <SearchPage />
     )
 }
 
