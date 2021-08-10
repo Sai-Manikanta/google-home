@@ -5,7 +5,13 @@ module.exports = {
     extend: {},
   },
   variants: {
+<<<<<<< HEAD
     extend: {},
+=======
+    extend: {
+      borderWidth: ['last']
+    },
+>>>>>>> search-suggetions
   },
   plugins: [],
 }
