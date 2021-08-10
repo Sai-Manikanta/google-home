@@ -6,7 +6,7 @@ function SearchBox() {
             <img 
                 src="./images/google_logo.svg" 
                 alt="google logo" 
-                className="mx-auto"
+                className="mx-auto w-48 sm:w-64"
             />
             <SearchField />
         </div>
